@@ -1,0 +1,2 @@
+# LottoAnalyzer
+Just a TestApplication
